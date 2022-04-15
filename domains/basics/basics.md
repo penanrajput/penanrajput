@@ -1,0 +1,2 @@
+## **Programming Basics** 🔰
+1. **Udemy - Programming 101** *by Lawrence Turton* [[Course Link](https://www.udemy.com/course/programming-101/)] [[Certificate](UC-281f88b8-d5f1-4e04-b6f5-1578ca91f90f.pdf)]

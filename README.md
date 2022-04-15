@@ -16,10 +16,12 @@ Visit My GitHub Repositories.
 
 ---
 Learning Repositories
-* [Data Structures and Algorithms 💓]()
+
+* [Programming Basics 🔰](domains\basics\basics.md)
+* [Data Structures and Algorithms 💓](domains\ds_algo\ds_algo.md)
 * [Web Programming ✨]()
 * [Shell Scripting 🤩]()
-* [Python 🐍](domains/python.md)
+* [Python 🐍](domains\python\python.md)
 * [Cloud Computing ⛅]()
 * [Agile & Scrum 🧐]()
 * [Software Testing 🧪]()
