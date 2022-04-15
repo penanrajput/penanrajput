@@ -17,8 +17,8 @@ Visit My GitHub Repositories.
 ---
 Learning Repositories
 
-* [Programming Basics 🔰](domains\basics\basics.md)
-* [Data Structures and Algorithms 💓](domains\ds_algo\ds_algo.md)
+* [Programming Basics 🔰](domains/basics/basics.md)
+* [Data Structures and Algorithms 💓](domains/ds_algo/ds_algo.md)
 * [Web Programming ✨]()
 * [Shell Scripting 🤩]()
 * [Python 🐍](domains\python\python.md)
