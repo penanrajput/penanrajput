@@ -1,6 +1,8 @@
 ## **Data Structures and Algorithms** 💓
-1. **Data Structures A-Z : Data Structures + Algorithms Bootcamp**  *by Vinoth Parthasarathy* [[Course Link](udemy.com/course/data-structures-and-algorithms-the-complete-guide)] [[Certificate](UC-55c541a9-ee33-4523-8ede-cbfa9da10ef7.pdf)]
+1. **Data Structures A-Z : Data Structures + Algorithms Bootcamp**  *by Vinoth Parthasarathy* <a href="https://www.udemy.com/course/data-structures-and-algorithms-the-complete-guide"> <img alt="Udemy Course Link" src="https://img.shields.io/badge/Open-Udemy%20Course-brightgreen" > </img> </a> 
+<a href="UC-55c541a9-ee33-4523-8ede-cbfa9da10ef7.pdf"> <img alt="Udemy Course Link" src="https://img.shields.io/badge/View-Certificate-red"  > </img> </a>
 
-* [asfa](https://img.shields.io/static/v1?message=css3&logo=css3&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
+* 
+
 
 
