@@ -21,7 +21,7 @@ Learning Repositories
 * [Data Structures and Algorithms 💓](domains/ds_algo/ds_algo.md)
 * [Web Programming 🎨](domains/web/readme.md)
 * [Shell Scripting 🤩]()
-* [SQL 🧐](domains/sql/readme.md)
+* [SQL 🧐](domains/sql/README.md)
 * [Python 🐍](domains\python\python.md)
 * [Cloud Computing ⛅]()
 * [Agile & Scrum 🧐]()
