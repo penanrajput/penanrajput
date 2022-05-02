@@ -19,7 +19,7 @@ Learning Repositories
 
 * [Programming Basics 🔰](domains/basics/basics.md)
 * [Data Structures and Algorithms 💓](domains/ds_algo/ds_algo.md)
-* [Web Programming ✨](domains/web/readme.md)
+* [Web Programming 🎨](domains/web/readme.md)
 * [Shell Scripting 🤩]()
 * [Python 🐍](domains\python\python.md)
 * [Cloud Computing ⛅]()
