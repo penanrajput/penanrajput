@@ -17,13 +17,14 @@ Visit My GitHub Repositories.
 ---
 Learning Repositories
 
-* [Programming Basics 🔰](domains/basics/basics.md)
-* [Data Structures and Algorithms 💓](domains/ds_algo/ds_algo.md)
-* [Web Programming 🎨](domains/web/readme.md)
-* [Shell Scripting 🤩]()
+* [Programming Basics 🔰](domains/basics/README.md)
+* [Data Structures and Algorithms 💓](domains/ds_algo/README.md)
+* [Web Programming 🎨](domains/web/README.md)
+* [Linux](domains/linux/README.md)
+* [Shell Scripting 🤩](domains/shell_script/README.md)
 * [SQL 🧐](domains/sql/README.md)
-* [Python 🐍](domains\python\python.md)
-* [Cloud Computing ⛅]()
+* [Python 🐍](domains\python\README.md)
+* [Cloud Computing ⛅](domains/cloud/README.md)
 * [Agile & Scrum 🧐]()
 * [Software Testing 🧪]()
 
