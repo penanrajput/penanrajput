@@ -23,7 +23,7 @@ Learning Repositories
 * [Linux](domains/linux/README.md)
 * [Shell Scripting 🤩](domains/shell_script/README.md)
 * [SQL 🧐](domains/sql/README.md)
-* [Python 🐍](domains\python\README.md)
+* [Python 🐍](domains/python/README.md)
 * [Cloud Computing ⛅](domains/cloud/README.md)
 * [Agile & Scrum 🧐]()
 * [Software Testing 🧪]()
