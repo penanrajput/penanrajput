@@ -25,7 +25,7 @@ Learning Repositories
 * [SQL 🧐](domains/sql/README.md)
 * [Python 🐍](domains/python/README.md)
 * [Cloud Computing ⛅](domains/cloud/README.md)
-* [Agile & Scrum 🧐]()
+* [Agile & Scrum 🧐](domains/agile_scrum/README.md)
 * [Software Testing 🧪]()
 
 
