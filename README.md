@@ -8,26 +8,51 @@ Visit My GitHub Repositories.
 
 ---
 
-- 💼 I’m currently working as **Associate Software Engineer @ Tech Mahindra** 
-- 📖 I’m currently learning **MEAN stack** 
+- 💼 I’m currently working as **Associate Software Engineer @ Tech Mahindra, Pune** 
+- 📖 I’m currently learning **Java Full Stack** 
 - 👯 I’m looking to collaborate on open source/commercial projects 
-- 💬 Ask me about **Software Development** 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/penanrajput/), [Instagram](https://www.instagram.com/penan_rajput/) 
+- 💬 Ask me about **Java Full Stack Development** 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/penanrajput/), [Instagram](https://www.instagram.com/penan_rajput/), [Twitter]()
 
 ---
-Learning Repositories
+<b>Learning Repositories</b>
+
+
+<summary> <b> 2. Java Web Development</b> </summary>
+
+* [Core Java](domains2/core-java)
+* [Junit](domains2/junit)
+* [Java Web Development](domains2/java-web-development)
+* [Spring Framework](domains2/spring)
+* [JPA with Hibernate](domains2/jpa-hibernate)
+* [Spring Boot Web Services](domains2/spring-boot)
+* [GIT](domains2/git)
+* [Jenkins](domains2/jetkins)
+* [Docker](domains2/docker)
+* [Java DevOps/ClCD Pipeline](domains2/java-devOps)
+
+
+
+
+
+<details>
+<summary> <b> 1. Programming Foundation</b> </summary>
 
 * [Programming Basics 🔰](domains/basics/README.md)
 * [Data Structures and Algorithms 💓](domains/ds_algo/README.md)
 * [Web Programming 🎨](domains/web/README.md)
-* [Linux](domains/linux/README.md)
+* [Linux 🧠](domains/linux/README.md)
 * [Shell Scripting 🤩](domains/shell_script/README.md)
 * [SQL 🧐](domains/sql/README.md)
 * [Python 🐍](domains/python/README.md)
 * [Cloud Computing ⛅](domains/cloud/README.md)
 * [Agile & Scrum 🧐](domains/agile_scrum/README.md)
-* [Software Testing 🧪]()
+* [Software Testing 🧪](domains/testing/README.md)
 
+</details>
+
+
+<br>
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
